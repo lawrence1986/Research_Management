@@ -16,4 +16,5 @@
 ![Roles   Permission](https://github.com/lawrence1986/Research_Management/assets/23414525/de2c463d-cba5-4efc-85fb-e413c436bd05)
 
 # Security
-![Security](https://github.com/lawrence1986/Research_Management/assets/23414525/acf459d6-c41a-45ab-b920-c759e3b15b09)
+![Security](https://github.com/lawrence1986/Research_Management/assets/23414525/93eb7446-0a27-4600-a074-97b4709055b6)
+
